@@ -30,7 +30,7 @@
 </div><br/>
 <div style="display: inline_block">
 <img alt="univ" style="width:40px; height: 40px" src="https://user-images.githubusercontent.com/33332673/184780054-00d80f59-7970-41d1-b3d3-38f5d9f7b572.png" />
-<a href="http://universorfid.com.br"> Moby Soluções<a/> - Desenvolvimento de aplicativo para coletores android e painel administrativo.
+<a href="https://www.mobysolucoes.com.br"> Moby Soluções<a/> - Desenvolvimento de aplicativo para coletores android e painel administrativo.
 </div><br/>
 <div style="display: inline_block">
 <img atl="contast" style="width:40px; height: 40px" src="https://user-images.githubusercontent.com/33332673/184520856-4a4c18e7-fe15-4cc0-892a-05dddc622234.png" />
